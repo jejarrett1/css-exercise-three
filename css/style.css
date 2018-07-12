@@ -62,6 +62,8 @@ nav {
 .arrow {
   box-sizing: border-box;
   display: inline-block;
+  float: right;
+  padding-top: 10px;
   padding-left: 25px;
   width:14%;
 }
